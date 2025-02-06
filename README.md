@@ -13,7 +13,6 @@ Data visualization techniques to present findings effectively
 
 📌 Feel free to explore, contribute, or provide feedback!
 
-This description is clear, engaging, and highlights your work effectively. Let me know if you’d like any tweaks! 🚀
 
 
 
@@ -22,6 +21,7 @@ This description is clear, engaging, and highlights your work effectively. Let m
 
 
 
+The Visualizations from this project. 
 Module 3. Exploratory Data Analysis (EDA)
 answer 4.
 ![image](https://github.com/user-attachments/assets/a9fa6a1b-35a5-4c5f-a244-b8667a77eeb6)
