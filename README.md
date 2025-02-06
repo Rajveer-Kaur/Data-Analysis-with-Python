@@ -10,19 +10,14 @@ o Data visualization techniques to present findings effectively<br>
 🔍 Objective: This project aims to enhance analytical skills by applying Python-based data analysis techniques to real-world datasets.<br><br>
 
 📂 Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn
-
+<br><br>
 📌 Feel free to explore, contribute, or provide feedback!
-
-
-
-
-
-
-
-
+<br><br><br><br>
 
 The Visualizations from this project. 
+<br>
 Module 3. Exploratory Data Analysis (EDA)
+<br>
 answer 4.
 ![image](https://github.com/user-attachments/assets/a9fa6a1b-35a5-4c5f-a244-b8667a77eeb6)
 
