@@ -1,13 +1,13 @@
-# Data-Analysis-with-Python
-📊 Data Analysis with Python
+# 📊 Data Analysis with Python
+
 This repository contains projects and exercises focused on data analysis using Python. It covers essential techniques such as data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization using popular Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
-🚀 Key Highlights:
-Data wrangling and preprocessing for structured analysis
-Exploratory Data Analysis (EDA) to uncover insights and patterns
-Statistical analysis and hypothesis testing for data-driven conclusions
-Data visualization techniques to present findings effectively
-🔍 Objective: This project aims to enhance analytical skills by applying Python-based data analysis techniques to real-world datasets.
+# 🚀 Key Highlights:<br>
+o Data wrangling and preprocessing for structured analysis<br>
+o Exploratory Data Analysis (EDA) to uncover insights and patterns<br>
+o Statistical analysis and hypothesis testing for data-driven conclusions<br>
+o Data visualization techniques to present findings effectively<br>
+🔍 Objective: This project aims to enhance analytical skills by applying Python-based data analysis techniques to real-world datasets.<br><br>
 
 📂 Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn
 
